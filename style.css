@@ -277,6 +277,7 @@ body {
 .info-right {
     text-align: center;
     color: rgb(200, 200, 200);
+    font-size:small;
 }
 
 .social-network {
